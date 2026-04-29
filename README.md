@@ -1,0 +1,2 @@
+# Hardened-cloud-infrastructure-for-E-commerce-data-secure_vaut-
+SecureVault is a Django-based, Python-powered secure file storage platform designed for the e-commerce domain. It implements AES-256-GCM (Advanced Encryption Standard - Galois/Counter Mode) symmetric encryption combined with PBKDF2-HMAC-SHA256 key derivation to protect sensitive business files including invoices, customer data, etc on the server
